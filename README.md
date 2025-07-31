@@ -19,10 +19,10 @@ I'm a passionate and curious Computer Science student looking to learn new skill
 - 🌏 Fun fact: I recently studied abroad in Taiwan as part of a cultural immersion program  
 
 ### ⚡ Tech Stack
-python
-Languages: Python, Java, JavaScript, C++
-Tools: Git, VS Code, Jupyter
-Frameworks: React, Flask, Node.js
-Cloud: AWS
+Python
+- Languages: Python, Java, JavaScript, C++
+- Tools: Git, VS Code, Jupyter
+- Frameworks: React, Flask, Node.js
+- Cloud: AWS
 
 If your interested in collaborating on any projects or just want to chat, please reach out:)
