@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I'm Lakshita!
 
-<!--
-**lakshita1212/lakshita1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and curious Computer Science student looking to learn new skills and build impactful projects.
 
-Here are some ideas to get you started:
+### 💻 About Me
+- 🎓 Rising junior at NJIT, pursuing a B.S. in Computer Science with a minor in Business
+- 🌟 Honors College Scholar with a strong interest in AI, software engineering, and cloud technologies
+- 🤖 Currently diving deeper into Machine Learning and expanding my technical skillset through hands-on projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Up To
+- 🌱 Learning: Machine Learning models, data structures, and algorithm design  
+- 💼 Recently completed a data analytics internship  
+- 🛠️ Working on: personal projects, hackathon submissions, and open-source contributions  
+- ☁️ Exploring: AWS services and cloud infrastructure  
+
+### 🤝 Let’s Connect
+- 💬 Ask me about my internship or my experience organizing hackathons!
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lakshitam04)
+- 🌏 Fun fact: I recently studied abroad in Taiwan as part of a cultural immersion program  
+
+### ⚡ Tech Stack
+```python
+Languages: Python, Java, JavaScript, C++
+Tools: Git, VS Code, Jupyter
+Frameworks: React, Flask, Node.js
+Cloud: AWS
+
+If your interested in collaborating on any projects or just want to chat, please reach out:)
