@@ -25,4 +25,4 @@ Python
 - Frameworks: React, Flask, Node.js
 - Cloud: AWS
 
-If your interested in collaborating on any projects or just want to chat, please reach out:)
+If you're interested in collaborating on any projects or just want to chat, please reach out:)
