@@ -10,7 +10,6 @@ I'm a passionate and curious Computer Science student looking to learn new skill
 ### 🚀 What I’m Up To
 - 🌱 Learning: Machine Learning models, data structures, and algorithm design  
 - 💼 Recently completed a data analytics internship  
-- 🛠️ Working on: personal projects, hackathon submissions, and open-source contributions  
 - ☁️ Exploring: AWS Cloud Practitioner Course  
 
 ### 🤝 Let’s Connect
