@@ -2,7 +2,7 @@
 
 I'm a passionate and curious Computer Science student looking to learn new skills and build impactful projects.
 
-[Check out my Portfolio Website ↗](https://lakshita1212.github.io)
+[Check out my Portfolio Website ↗](https://github.com/lakshita1212/Portfolio)
 
 ### 💻 About Me
 - 🎓 Junior at NJIT, pursuing a B.S. in Computer Science with a minor in Business
