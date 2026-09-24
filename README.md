@@ -5,7 +5,7 @@ I'm a passionate and curious Computer Science student looking to learn new skill
 [Check out my Portfolio Website ↗](https://github.com/lakshita1212/Portfolio)
 
 ### 💻 About Me
-- 🎓 Junior at NJIT, pursuing a B.S. in Computer Science with a minor in Business
+- 🎓 Senior at NJIT, pursuing a B.S. in Computer Science with a minor in Business
 - 🌟 Honors College Scholar with a strong interest in AI, software engineering, and cloud technologies
 - 🤖 Currently diving deeper into Machine Learning and expanding my technical skillset through hands-on projects
 
